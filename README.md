@@ -1,4 +1,24 @@
-# terraform-azure-defender
+<p align="center"> <img src="https://user-images.githubusercontent.com/50652676/62349836-882fef80-b51e-11e9-99e3-7b974309c7e3.png" width="100" height="100"></p>
+
+
+<h1 align="center">
+    Terraform Azure Defender
+</h1>
+
+<p align="center" style="font-size: 1.2rem;">
+    Terraform module to create Defender resource on Azure.
+     </p>
+
+<p align="center">
+
+<a href="https://www.terraform.io">
+  <img src="https://img.shields.io/badge/Terraform-v1.7.4-green" alt="Terraform">
+</a>
+<a href="https://github.com/slovink/terraform-azure-defender/blob/master/LICENSE">
+  <img src="https://img.shields.io/badge/License-APACHE-blue.svg" alt="Licence">
+</a>
+
+
 # Terraform Azure Infrastructure
 
 This Terraform configuration defines an Azure infrastructure using the Azure provider.
